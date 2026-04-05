@@ -1,41 +1,39 @@
-**Airline Data Analysis & Dashboard**
+## Airline Data Analysis & Dashboard
 
-**Note: Large dataset files are not uploaded due to GitHub size limits. The analysis and dashboard are based on this dataset.**
+#### Note: Large dataset files are not uploaded due to GitHub size limits. The analysis and dashboard are based on this dataset.
+---
+## Project Overview:
 
-**Project Overview:**
+#### This project focuses on analyzing an airline travel dataset to understand booking patterns, revenue trends, and aircraft performance. The analysis was performed using Python, and an interactive dashboard was created using Power BI.
+---
+## Tools & Technologies:
 
-This project focuses on analyzing an airline travel dataset to understand booking patterns, revenue trends, and aircraft performance. The analysis was performed using Python, and an interactive dashboard was created using Power BI.
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL (SQLite)
+- Power BI
+---
+## Dataset:
 
-**Tools & Technologies:**
+#### The dataset contains multiple tables including bookings, tickets, flights, and aircraft information. These were combined to create a master dataset for analysis.
+---
+## Key Analysis Performed:
 
-Python (Pandas, Matplotlib, Seaborn)
-SQL (SQLite)
-Power BI
+- Revenue trend over time
+- Revenue by aircraft
+- Fare class comparison
+- Booking and revenue metrics
+- Occupancy impact on revenue
+---
+## Key Insights:
 
-**Dataset:**
+- Aircraft SU9 generates the highest revenue
+- Revenue shows a stable trend after initial growth
+- Business class has higher ticket prices
+- Economy class contributes more due to higher bookings
+- Increasing occupancy can improve revenue significantly
+---
+## Conclusion:
 
-The dataset contains multiple tables including bookings, tickets, flights, and aircraft information. These were combined to create a master dataset for analysis.
-
-**Key Analysis Performed:**
-
-Revenue trend over time
-Revenue by aircraft
-Fare class comparison
-Booking and revenue metrics
-Occupancy impact on revenue
-
-**Dashboard:**
-
-Below is the Power BI dashboard created from the analysis:
-
-**Key Insights:**
-
-Aircraft SU9 generates the highest revenue
-Revenue shows a stable trend after initial growth
-Business class has higher ticket prices
-Economy class contributes more due to higher bookings
-Increasing occupancy can improve revenue significantly
-
-**Conclusion:**
-
-This project provides insights into airline performance and highlights the importance of pricing strategy and occupancy optimization.
+#### This project provides insights into airline performance and highlights the importance of pricing strategy and occupancy optimization.
+---
+[Linkedin](https://www.linkedin.com/in/eishutamori/)
